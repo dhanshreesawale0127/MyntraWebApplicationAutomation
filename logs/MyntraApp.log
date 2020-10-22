@@ -1,0 +1,78 @@
+17:53:42.560 [main] INFO  com.myntra.base.Driver - Reading property file.........
+17:53:42.565 [main] INFO  com.myntra.base.Driver - Property file loaded successfully!
+17:53:42.619 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+17:53:48.551 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+17:53:53.957 [main] INFO  com.myntra.base.Driver - Triggering url
+17:53:58.495 [main] INFO  com.myntra.base.Driver - Triggered https://www.myntra.com/
+17:53:58.965 [main] INFO  com.myntra.base.Driver - verifying HomePageTitle
+17:53:58.965 [main] INFO  com.myntra.pages.HomePage - USer redirected to Home Page
+17:53:59.074 [main] INFO  com.myntra.base.Driver - Found homePageTitle->Online Shopping for Women, Men, Kids Fashion & Lifestyle - Myntra
+17:53:59.077 [main] INFO  com.myntra.base.Driver - Title Verified!
+17:53:59.080 [main] INFO  com.myntra.base.Driver - Closing the browser
+17:54:00.664 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+17:54:00.742 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+17:54:05.251 [main] INFO  com.myntra.base.Driver - Triggering url
+17:54:08.812 [main] INFO  com.myntra.base.Driver - Triggered https://www.myntra.com/
+17:54:14.216 [main] INFO  com.myntra.base.Driver - Closing the browser
+17:54:15.829 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+17:54:15.887 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+17:54:20.528 [main] INFO  com.myntra.base.Driver - Triggering url
+17:54:25.790 [main] INFO  com.myntra.base.Driver - Triggered https://www.myntra.com/
+17:54:31.787 [main] INFO  com.myntra.pages.ProductSearchPage - Page load with search result and filters in left side pf page
+17:54:35.877 [main] INFO  com.myntra.base.Driver - Closing the browser
+17:54:37.834 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+17:54:37.975 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+17:54:52.289 [main] INFO  com.myntra.base.Driver - Reading property file.........
+17:54:52.295 [main] INFO  com.myntra.base.Driver - Property file loaded successfully!
+17:54:52.389 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+17:54:53.397 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+17:54:58.519 [main] INFO  com.myntra.base.Driver - Triggering url
+17:55:02.247 [main] INFO  com.myntra.base.Driver - Triggered https://www.myntra.com/
+17:55:02.551 [main] INFO  com.myntra.base.Driver - verifying HomePageTitle
+17:55:02.551 [main] INFO  com.myntra.pages.HomePage - USer redirected to Home Page
+17:55:02.561 [main] INFO  com.myntra.base.Driver - Found homePageTitle->Online Shopping for Women, Men, Kids Fashion & Lifestyle - Myntra
+17:55:02.563 [main] INFO  com.myntra.base.Driver - Title Verified!
+17:55:02.567 [main] INFO  com.myntra.base.Driver - Closing the browser
+17:55:03.895 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+17:55:03.927 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+09:44:12.841 [main] INFO  com.myntra.base.Driver - Reading property file.........
+09:44:12.846 [main] INFO  com.myntra.base.Driver - Property file loaded successfully!
+09:44:12.893 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+09:44:14.472 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+09:44:18.695 [main] INFO  com.myntra.base.Driver - Triggering url
+09:44:23.926 [main] INFO  com.myntra.base.Driver - Triggered https://www.myntra.com/
+09:44:24.102 [main] INFO  com.myntra.base.Driver - verifying HomePageTitle
+09:44:24.102 [main] INFO  com.myntra.pages.HomePage - USer redirected to Home Page
+09:44:24.106 [main] INFO  com.myntra.base.Driver - Found homePageTitle->Online Shopping for Women, Men, Kids Fashion & Lifestyle - Myntra
+09:44:24.108 [main] INFO  com.myntra.base.Driver - Title Verified!
+09:44:24.110 [main] INFO  com.myntra.base.Driver - Closing the browser
+09:44:25.212 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+09:44:25.268 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+09:44:29.591 [main] INFO  com.myntra.base.Driver - Triggering url
+09:44:34.613 [main] INFO  com.myntra.base.Driver - Triggered https://www.myntra.com/
+09:44:42.699 [main] INFO  com.myntra.base.Driver - Closing the browser
+09:44:44.163 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+09:44:44.224 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+09:44:48.700 [main] INFO  com.myntra.base.Driver - Triggering url
+09:44:53.946 [main] INFO  com.myntra.base.Driver - Triggered https://www.myntra.com/
+09:44:58.318 [main] INFO  com.myntra.pages.ProductSearchPage - Page load with search result and filters in left side pf page
+09:45:02.658 [main] INFO  com.myntra.base.Driver - Closing the browser
+09:45:04.015 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+09:45:04.053 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+09:45:08.074 [main] INFO  com.myntra.base.Driver - Triggering url
+09:45:13.541 [main] INFO  com.myntra.base.Driver - Triggered https://www.myntra.com/
+09:45:21.156 [main] INFO  com.myntra.pages.ProductSearchPage - Page load with search result and filters in left side pf page
+09:45:43.416 [main] INFO  com.myntra.base.Driver - Closing the browser
+09:45:44.355 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+09:45:44.397 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+09:45:48.722 [main] INFO  com.myntra.base.Driver - Triggering url
+09:45:54.500 [main] INFO  com.myntra.base.Driver - Triggered https://www.myntra.com/
+09:45:58.201 [main] INFO  com.myntra.pages.ProductSearchPage - Page load with search result and filters in left side pf page
+09:46:41.222 [main] INFO  com.myntra.base.Driver - Closing the browser
+09:46:42.126 [main] INFO  com.myntra.base.Driver - Getting browser from property file
+09:46:42.172 [main] INFO  com.myntra.base.Driver - Loading ChromeDriver
+09:46:46.255 [main] INFO  com.myntra.base.Driver - Triggering url
+09:46:51.161 [main] INFO  com.myntra.base.Driver - Triggered https://www.myntra.com/
+09:46:55.880 [main] INFO  com.myntra.pages.ProductSearchPage - Page load with search result and filters in left side pf page
+09:47:22.825 [main] INFO  com.myntra.pages.MyBagPage - product not added in cart
+09:47:22.826 [main] INFO  com.myntra.base.Driver - Closing the browser

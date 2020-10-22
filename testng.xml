@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Myntra.com Test" preserve-order="true">
+<listeners>
+<!-- 	<listener class-name="com.myntra.listeners.MyTrnasformer"></listener>
+	<listener class-name="com.myntra.listeners.Listener"></listener> -->
+	<listener class-name="com.myntra.listeners.TestNgListener"></listener>
+</listeners>
+
+    <test  name="Test">
+    <classes>
+      
+      <class name="com.myntra.tests.SearchProductTestCases"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
